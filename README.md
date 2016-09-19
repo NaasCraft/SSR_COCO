@@ -48,3 +48,15 @@ TODO
 ## References
 
 TODO
+
+***
+***
+***
+
+GitHub release to-do list :
+
+[] Prepare project build structure
+[] Clean and adapt code
+[] Write new necessary code for sharing (experiment reproducibility, results...)
+[] Document the reproduction and skeleton of the code
+[] Complete README with background and potential leads forward
